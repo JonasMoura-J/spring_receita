@@ -1,2 +1,2 @@
 # spring_receita
-O programa faz o cadastro de CPFs e PJs e tem a possibilidade de adicionar CPFs ao PJ, deletar ambos ou atualizar.
+A Api tem a finalidade de ser consumida para criacao de cpfs e cnpjs. Ela armazena os dados em formato Json no Banco de dados Postgres e é possivél usar os Métodos Get, Post, Put e Delete.
